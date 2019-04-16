@@ -1,0 +1,2 @@
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/putty.html
+https://medium.com/@josemarcialportilla/getting-spark-python-and-jupyter-notebook-running-on-amazon-ec2-dec599e1c297
